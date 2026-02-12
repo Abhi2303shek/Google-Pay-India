@@ -74,7 +74,19 @@ The analysis helps determine:
 
 This project highlights how user reviews can act as a powerful **operational monitoring tool** for digital products.
 
----
+## Project Structure
+
+Google pay India/
+│
+├── data/
+│   ├── raw/
+│       └── GooglePayIndia.csv
+│       └── gpay.ipynb
+│       └── visuals.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 ## 📬 Author
 
